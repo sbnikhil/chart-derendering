@@ -1,7 +1,5 @@
 # BeneTech - Making Graphs Accessible 
 
-![Alt text](<assets/benetech.png>)
-
 ## Matcha 
 
 > MatCha is a model that is trained using the Pix2Struct architecture1. It is a Visual Question Answering subset of the Pix2Struct architecture. It renders the input question on the image and predicts the answer.
